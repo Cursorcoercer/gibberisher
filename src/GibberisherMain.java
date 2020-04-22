@@ -67,10 +67,10 @@ public class GibberisherMain {
         //     * What sort of words are generated when segmentLength is too big?
 
         // some code to get you started:
-        printSome(runGibberisherTest(2, 2000), 20);
+        //printSome(runGibberisherTest(2, 2000), 20);
         //printLongest(runGibberisherTest(2, 2000), 20);
         //printContains(runGibberisherTest(3, 10000000), "gibbord");
-        //UI();
+        UI();
     }
 
 }
